@@ -2,6 +2,10 @@
 
 ### I'm Alex - Backend Software Developer
 
+![Alt Text](https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif)
+
+<!-- https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif?cid=790b76113e20213586c2d2acaac295b65939a4d56361859e&rid=giphy.gif&ct=g
+https://giphy.com/gifs/internet-google-chrone-9J7tdYltWyXIY --!>
 <!--
 **alexander-gc/alexander-gc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
