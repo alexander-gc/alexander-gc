@@ -2,7 +2,7 @@
 
 ### I'm Alex - Backend Software Developer
 
-![Alt Text](https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif | width=100)
+![Alt Text](https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif)
 
 <!-- https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif?cid=790b76113e20213586c2d2acaac295b65939a4d56361859e&rid=giphy.gif&ct=g
 https://giphy.com/gifs/internet-google-chrone-9J7tdYltWyXIY --!>
