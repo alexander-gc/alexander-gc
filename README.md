@@ -7,6 +7,8 @@
 <p>
   <img alt="JavascriptDev" align="center" src="https://img.shields.io/badge/-Javascript-yellow"/>&nbsp; 
   <img alt="NodeJs" align="center" src="https://img.shields.io/badge/-NodeJs-brightgreen"/>
+  <img alt="Docker" align="center" src="https://img.shields.io/badge/-Docker-blue"/>
+  <img alt="Postgresql" align="center" src="https://img.shields.io/badge/-PostgreSQL-blue"/>
 </p>
   
 <p><a href="https://www.linkedin.com/in/alexander-carrillo-softdev" target="_blank"><img alt="LinkedIn @AlexanderCarrillo" align="center" src="https://img.shields.io/badge/-LinkedIn-blue"/></a>&nbsp; (Contact) </p>
