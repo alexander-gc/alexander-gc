@@ -11,7 +11,7 @@
   <img alt="Postgresql" align="center" src="https://img.shields.io/badge/-PostgreSQL-blue"/>
 </p>
   
-<p><a href="https://www.linkedin.com/in/alexander-carrillo-softdev" target="_blank"><img alt="LinkedIn @AlexanderCarrillo" align="center" src="https://img.shields.io/badge/-%3E%20LinkedIn%20%3C-blue"/></a>&nbsp; </p>
+<p><a href="https://www.linkedin.com/in/alexander-carrillo-softdev" target="_blank"><img alt="LinkedIn @AlexanderCarrillo" align="center" src="https://img.shields.io/badge/-%3E%20LinkedIn%20%3C-blue"/></a>&nbsp;</p>
   
 </div>
   
