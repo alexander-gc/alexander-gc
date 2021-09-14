@@ -6,7 +6,7 @@
   
 <p><img alt="JavascriptDev" align="center" src="https://img.shields.io/badge/-Javascript-yellow"/></a>&nbsp; (Developer) = </p>
   
-<p><a href="https://www.linkedin.com/in/alexander-carrillo-softdev" target="_blank"><img alt="LinkedIn @AlexanderCarrillo" align="center" src="https://img.shields.io/badge/-LinkedIn-blue"/></a>&nbsp; = (Contact) = </p>
+<p><a href="https://www.linkedin.com/in/alexander-carrillo-softdev" target="_blank"><img alt="LinkedIn @AlexanderCarrillo" align="center" src="https://img.shields.io/badge/-LinkedIn-blue"/></a>&nbsp; (Contact) </p>
   
 </div>
   
