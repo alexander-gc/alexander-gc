@@ -3,7 +3,11 @@
 ### Javascript Developer | Backend | Software Development Student
 
 <div align="left">
+  
+<p><img alt="JavascriptDev" align="center" src="https://img.shields.io/badge/-Javascript-yellow"/></a>&nbsp;<small><strong> Javascript Developer </strong> </small></p>
+  
 <p><a href="https://www.linkedin.com/in/alexander-carrillo-softdev" target="_blank"><img alt="LinkedIn @AlexanderCarrillo" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge"/></a>&nbsp;<small><strong> Contact </strong> </small></p>
+  
 </div>
   
 ![Alt Text](https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif)
