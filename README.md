@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there! I'm Alex 👋
 
-### I'm Alex - Backend Software Developer
+### Javascript Developer | Backend | Software Development Student
 
 <div align="left">
 <p><a href="https://www.linkedin.com/in/alexander-carrillo-softdev" target="_blank"><img alt="LinkedIn @AlexanderCarrillo" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge"/></a>&nbsp;<small><strong> Contact </strong> </small></p>
