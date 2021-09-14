@@ -1,6 +1,6 @@
 ### Hi there! I'm Alex 👋
 
-### Backend | Software Development Student
+### | Backend | Software Development Student |
 
 <div align="left">
   
