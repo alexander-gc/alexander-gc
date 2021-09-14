@@ -3,7 +3,7 @@
 ### I'm Alex - Backend Software Developer
 
 <div align="left">
-<p><a href="https://www.linkedin.com/in/alexander-carrillo-softdev"target="_blank"><img alt="LinkedIn @AlexanderCarrillo" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge"/></a>&nbsp;<small><strong>(connect)</strong> On the LinkedIn profile y'all</small></p>
+<p><a href="https://www.linkedin.com/in/alexander-carrillo-softdev" target="_blank"><img alt="LinkedIn @AlexanderCarrillo" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge"/></a>&nbsp;<small><strong> Contact </strong> </small></p>
 </div>
   
 ![Alt Text](https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif)
