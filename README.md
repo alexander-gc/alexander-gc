@@ -38,19 +38,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexander-gc&count_private=true&theme=radical&show_icons=true&locale=en" alt="alexander-gc" /></p>
 
-
-<!--
-<div align="left">  
-<p>
-  <img alt="JavascriptDev" align="center" src="https://img.shields.io/badge/-Javascript-yellow"/>&nbsp; 
-  <img alt="NodeJs" align="center" src="https://img.shields.io/badge/-NodeJs-brightgreen"/>
-  <img alt="Docker" align="center" src="https://img.shields.io/badge/-Docker-blue"/>
-  <img alt="Postgresql" align="center" src="https://img.shields.io/badge/-PostgreSQL-blue"/>
-</p>
-</div>
--->
-
-<p>&nbsp;<img align="center" src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="giflol" width="100" height="100" /></p>
+<p>&nbsp;<img align="center" src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="giflol" width="300" height="300" /></p>
   
 <!-- ![Alt Text](https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif) -->
 
