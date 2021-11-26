@@ -36,7 +36,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexander-gc&count_private=true&show_icons=true&locale=en&layout=compact" alt="alexander-gc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexander-gc&count_private=true&show_icons=true&locale=en&layout=compact" alt="alexander-gc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexander-gc&count_private=true&theme=radical&show_icons=true&locale=en" alt="alexander-gc" /></p>
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
