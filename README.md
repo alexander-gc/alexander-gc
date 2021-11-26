@@ -15,7 +15,7 @@
  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
  
-<a href="https://www.docker.com/" target="_blank"> <img src="https://www.flaticon.es/icono-gratis/estibador_919853" alt="docker" width="40" height="40"/> </a>  
+<a href="https://www.docker.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="docker" width="40" height="40"/> </a>  
   
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   
