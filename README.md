@@ -27,6 +27,8 @@
   
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" alt="ubuntu" width="40" height="40"/> </a>
   
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  
 </p>
 
 
