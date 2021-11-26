@@ -1,24 +1,34 @@
 ### Hi there! I'm Alex 👋
+<h1 align="center">Hi 👋, I'm Alex</h1>
 
-### | Backend | Software Development Student |
+<h3 align="center"> Backend Dev and Software Development Student </h3>
 
-<div align="left">
-  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/alexander-carrillo-softdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alexander-carrillo-softdev" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+</p>
+
+
+<!--
+<div align="left">  
 <p>
   <img alt="JavascriptDev" align="center" src="https://img.shields.io/badge/-Javascript-yellow"/>&nbsp; 
   <img alt="NodeJs" align="center" src="https://img.shields.io/badge/-NodeJs-brightgreen"/>
   <img alt="Docker" align="center" src="https://img.shields.io/badge/-Docker-blue"/>
   <img alt="Postgresql" align="center" src="https://img.shields.io/badge/-PostgreSQL-blue"/>
 </p>
-  
-<p><a href="https://www.linkedin.com/in/alexander-carrillo-softdev" target="_blank"><img alt="LinkedIn @AlexanderCarrillo" align="center" src="https://img.shields.io/badge/-%3E%20LinkedIn%20%3C-blue"/></a>&nbsp;</p>
-  
 </div>
+-->
   
 ![Alt Text](https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif)
 
-<!-- https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif?cid=790b76113e20213586c2d2acaac295b65939a4d56361859e&rid=giphy.gif&ct=g
-https://giphy.com/gifs/internet-google-chrone-9J7tdYltWyXIY --!>
+
 <!--
 **alexander-gc/alexander-gc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
