@@ -50,7 +50,7 @@
 </div>
 -->
 
-<p>&nbsp;<img align="center" src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="giflol" /></p>
+<p>&nbsp;<img align="center" src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="giflol" width="100" height="100" /></p>
   
 <!-- ![Alt Text](https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif) -->
 
