@@ -30,9 +30,9 @@
 <a href="https://aws.amazon.com/es/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexander-gc&count_private=true&show_icons=true&locale=en&layout=compact" alt="alexander-gc" width="40%" height="300" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexander-gc&count_private=true&show_icons=true&locale=en&layout=compact" alt="alexander-gc" width="45%" height="500" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alexander-gc&count_private=true&theme=radical&show_icons=true&locale=en" alt="alexander-gc" width="40%" height="300" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alexander-gc&count_private=true&theme=radical&show_icons=true&locale=en" alt="alexander-gc" width="45%" height="500" /></p>
 
 <p>&nbsp;<img align="center" src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="gif" width="100%" height="600" /></p>
   
