@@ -8,7 +8,7 @@
 - ⚡ Fun fact: 🥊❤️‍🔥 I'm boxing lover. Athlete by day and developer by night haha. 🤪
 
 <h3 align="left">My project bigger:</h3> 
-<h4> <a href="https://www.interview.lat/"> Interview.lat </a> </h4>
+<h4 align="left"><a href="https://www.interview.lat/"> Interview.lat</a></h4>
 
 <!-- [Interview.lat](https://www.interview.lat) -->
 
