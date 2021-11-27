@@ -2,10 +2,10 @@
 
 <h3 align="center"> Backend Dev and Software Development Student </h3>
 
-- 🔭 I’m currently developing at [Hackademy.lat](https://hackademy.lat)
+- 🔭 I’m currently developing at [Hackademy.lat](https://hackademy.lat).
 - 🌱 I’m currently learning about AWS, Kubernetes and more. < DevOps aspirant 🏁 >
-- 💬 Ask me about Javascript and Nodejs
-- ⚡ Fun fact: 🥊❤️‍🔥 I'm boxing lover. Athlete by day and developer by night haha 🤪
+- 💬 Ask me about Javascript and Nodejs.
+- ⚡ Fun fact: 🥊❤️‍🔥 I'm boxing lover. Athlete by day and developer by night haha. 🤪
 
 <h3 align="left">Connect with me:</h3>
 
