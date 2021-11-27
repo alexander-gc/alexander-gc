@@ -32,6 +32,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexander-gc&count_private=true&show_icons=true&locale=en&layout=compact" alt="alexander-gc" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexander-gc&count_private=true&theme=radical&show_icons=true&locale=en" alt="alexander-gc" /></p>
 
 <p>&nbsp;<img align="center" src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="gif" width="100%" height="600" /></p>
