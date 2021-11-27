@@ -34,7 +34,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alexander-gc&count_private=true&theme=radical&show_icons=true&locale=en" alt="alexander-gc" width="45%"/></p>
 
-<p>&nbsp;<img align="center" src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="gif" width="100%" height="600" /></p>
+<p>&nbsp;<img align="center" src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="gif" width="100%"/></p>
   
 <!-- ![Alt Text](https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif) -->
 
