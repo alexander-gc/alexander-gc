@@ -2,9 +2,8 @@
 
 <h3 align="center"> Backend Dev and Software Development Student </h3>
 
-- 🔭 I’m currently developing at [Hackademy.lat](https://hackademy.lat).
-- 🌱 I’m currently learning about AWS, Kubernetes and more. < DevOps aspirant 🏁 >
-- 💬 Ask me about Javascript and Nodejs.
+- 🔭 I’m currently working as a Backend Dev and DevOps. 
+- 💬 Ask me about Backend Development and DevOps.
 - ⚡ Fun fact: 🥊❤️‍🔥 I'm boxing lover. Athlete by day and developer by night haha. 🤪
 
 <h3 align="left">My project bigger:</h3> 
